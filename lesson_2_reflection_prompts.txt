@@ -16,6 +16,7 @@ organized? How would branches help?
 - It will help by logically organising the history of the code.
 
 How do the diagrams help you visualize the branch structure?
+- By locating the point of divergence (where the branch splits).
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
